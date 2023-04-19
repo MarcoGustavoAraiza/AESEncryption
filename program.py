@@ -199,7 +199,7 @@ def task1():
     decrypted2.close()
 
 
-
+task1()
 
 
 def submit(vector):
